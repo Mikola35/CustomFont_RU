@@ -1,7 +1,7 @@
 {
-    "name": "WhaleySansFont",
-    "version": "1.1.0",
-    "description": "makecode WhaleySans Font Package for micro:bit",
+    "name": "SansFont-RU",
+    "version": "0.0.0",
+    "description": "Rus Font Package for micro:bit",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -9,7 +9,7 @@
     "files": [
         "README.md",
         "_locales/zh/WhaleySansFont-strings.json",
-        "WhaleySansFont.ts"
+        "RuSansFont.ts"
     ],
     "testFiles": [
         "test.ts"
